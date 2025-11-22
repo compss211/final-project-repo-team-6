@@ -205,3 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+*.csv
+Daily_edition_csv.csv
+Final_Notebooks_Data/output_final.csv
+df_116.csv
